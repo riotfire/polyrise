@@ -11,7 +11,7 @@
         <p v-if="errorMsg !== ''" class="error">{{ errorMsg }}</p>
         <button @click="resetPassword()" class="button">Reset</button>
       </div>
-      <p v-else>Success! Check your email for a reset link.</p>
+      <p v-else>If  you have an  account with us, you will receive an email with a reset link.</p>
     </div>
   </div>
 </template>

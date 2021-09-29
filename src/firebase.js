@@ -4,13 +4,13 @@ import 'firebase/firestore'
 
 // firebase init
 const firebaseConfig = {
-  apiKey: '',
-  authDomain: '',
+  apiKey: 'AIzaSyDHyWPCpdvSO283h-HE0XxFBftk9IgFKBI',
+  authDomain: 'polyrise-95012.firebaseapp.com',
   databaseURL: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: ''
+  projectId: 'polyrise-95012',
+  storageBucket: 'polyrise-95012.appspot.com',
+  messagingSenderId: '1091938212545',
+  appId: '1:1091938212545:web:9ae21f1742c284f91c5240'
 }
 firebase.initializeApp(firebaseConfig)
 
